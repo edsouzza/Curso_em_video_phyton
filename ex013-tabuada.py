@@ -23,7 +23,7 @@ n=int(input('Digite um número para ver sua tabuada : '))
 # print('{} X {} = {}'.format(n,x,n*x))
 # print('===========')
 
-# USANDO O LAÇO FOR
+# USANDO O LAÇO FOR FICOU MUITO MELHOR
 print('='*17)
 listnum=[1,2,3,4,5,6,7,8,9,10]
 for num in listnum:
